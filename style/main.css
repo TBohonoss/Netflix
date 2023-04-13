@@ -99,6 +99,9 @@ header nav a:hover {
     display: block;
 }
 
-.carrosel-filmes{
-    margin-top: 5px;
+/*----------------------Carrossel-------------------*/
+
+.carrosel-filmes h2 {
+    margin: 10px 20px;
+    font-weight: 500;
 }
