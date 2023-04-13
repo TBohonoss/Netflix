@@ -1,1 +1,1 @@
-## Recriando a Interface do Netflix com HTML e CSS
+## Recriando a Interface do Netflix com HTML, CSS e JavaScript
